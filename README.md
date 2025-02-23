@@ -1,5 +1,5 @@
 # authority
 
 
-npm i
-node src/index.js
+#npm i
+#node src/index.js
